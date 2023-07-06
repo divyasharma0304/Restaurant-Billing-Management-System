@@ -9,10 +9,12 @@ TECHNOLOGIES USED:
 
 Front End:
 •	Apache NetBeans IDE 13
+
 •	Canva (for GUI background)
 
 Back End:
 •	Apache NetBeans IDE 13
+
 •	MySQL Localhost (To connect to Database)
 
 Database Server:
