@@ -8,17 +8,21 @@ User Interface, Admin interface , Login and register both options for user, Logi
 TECHNOLOGIES USED:
 
 Front End:
+
 •	Apache NetBeans IDE 13
 
 •	Canva (for GUI background)
 
 Back End:
+
 •	Apache NetBeans IDE 13
 
 •	MySQL Localhost (To connect to Database)
 
 Database Server:
+
 •	MySQL Localhost
 
 IDE Used:
+
 •	Apache NetBeans 13
